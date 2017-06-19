@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1477930289 source:c:\users\franc\documents\programacion iii\tareas\tarea2\main.cpp
+	<iostream>
+	"Cliente.h"
+
+1477929642 source:c:\users\franc\documents\programacion iii\tareas\tarea2\cliente.cpp
+	"Cliente.h"
+
+1477929168 c:\users\franc\documents\programacion iii\tareas\tarea2\cliente.h
+	<string.h>
+
+1479240592 source:c:\users\franc\documents\programacion iii\tareas\tarea2\empleado.cpp
+	"Empleado.h"
+
+1479240617 c:\users\franc\documents\programacion iii\tareas\tarea2\empleado.h
+	<string.h>
+

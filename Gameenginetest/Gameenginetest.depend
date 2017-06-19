@@ -1,0 +1,275 @@
+# depslib dependency file v1.0
+1484071454 source:c:\users\dell\desktop\smallgameengine-master\src\application.cpp
+	"Application.hpp"
+
+1484071454 c:\users\dell\desktop\smallgameengine-master\src\application.hpp
+	"IntroState.hpp"
+	"StateMachine.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+
+1484071454 c:\users\dell\desktop\smallgameengine-master\src\introstate.hpp
+	"State.hpp"
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1484071454 c:\users\dell\desktop\smallgameengine-master\src\state.hpp
+	<memory>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1486736397 c:\program files (x86)\codeblocks\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1486736397 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\vector2.inl
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\rect.inl
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\primitivetype.hpp
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1486736455 c:\program files (x86)\codeblocks\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1486736455 c:\program files (x86)\codeblocks\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1484071454 c:\users\dell\desktop\smallgameengine-master\src\statemachine.hpp
+	<memory>
+	<stack>
+	<string>
+
+1486736455 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1486736455 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\contextsettings.hpp
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\windowstyle.hpp
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\utf.inl
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\string.inl
+
+1490104246 source:c:\users\dell\desktop\smallgameengine-master\src\introstate.cpp
+	"IntroState.hpp"
+	"PlayState.hpp"
+	"StateMachine.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Window/Event.hpp>
+	<iostream>
+	<memory>
+
+1484071454 c:\users\dell\desktop\smallgameengine-master\src\playstate.hpp
+	"State.hpp"
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1486736398 c:\program files (x86)\codeblocks\sfml\include\sfml\system\vector3.inl
+
+1484071454 source:c:\users\dell\desktop\smallgameengine-master\src\main.cpp
+	"Application.hpp"
+
+1490104289 source:c:\users\dell\desktop\smallgameengine-master\src\menustate.cpp
+	"StateMachine.hpp"
+	"MenuState.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Window/Event.hpp>
+	<memory>
+	<iostream>
+
+1484071454 c:\users\dell\desktop\smallgameengine-master\src\menustate.hpp
+	"State.hpp"
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1490104288 source:c:\users\dell\desktop\smallgameengine-master\src\playstate.cpp
+	<memory>
+	<iostream>
+	"StateMachine.hpp"
+	"PlayState.hpp"
+	"MenuState.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Window/Event.hpp>
+
+1484071454 source:c:\users\dell\desktop\smallgameengine-master\src\state.cpp
+	"State.hpp"
+
+1484071454 source:c:\users\dell\desktop\smallgameengine-master\src\statemachine.cpp
+	"StateMachine.hpp"
+	"State.hpp"
+	<iostream>
+	<memory>
+

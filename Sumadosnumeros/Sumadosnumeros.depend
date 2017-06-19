@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484688954 source:c:\c++practica\sumadosnumeros\main.cpp
+	<iostream>
+
+1484751928 source:c:\c++practica\sumadosnumeros\src\manzana.cpp
+	"manzana.h"
+
+1484749715 c:\c++practica\sumadosnumeros\include\manzana.h
+

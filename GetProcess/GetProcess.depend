@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488382919 source:c:\c++practica\getprocess\main.cpp
+	<iostream>
+	"windows.h"
+	<psapi.h>
+	"reason.h"
+

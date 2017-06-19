@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487013752 source:c:\c++practica\imprimirprocesos\main.cpp
+	<windows.h>
+	<stdio.h>
+	<psapi.h>
+

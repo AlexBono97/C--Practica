@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1488515070 source:c:\c++practica\recursionclase\main.cpp
+	<iostream>
+	"nodo.h"
+	<vector>
+	<array>
+
+1488225170 c:\c++practica\recursionclase\nodo.h
+
+1488225524 source:c:\c++practica\recursionclase\nodo.cpp
+	"nodo.h"
+

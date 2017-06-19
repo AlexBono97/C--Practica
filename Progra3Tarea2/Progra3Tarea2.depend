@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485205244 source:c:\c++practica\progra3tarea2\main.cpp
+	<iostream>
+	<string.h>
+

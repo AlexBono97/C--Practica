@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1479243905 source:c:\users\franc\documents\programacion iii\tareas\tarea3\main.cpp
+	<iostream>
+	"nod.h"
+
+1479243644 source:c:\users\franc\documents\programacion iii\tareas\tarea3\nod.cpp
+	"nod.h"
+
+1479243663 c:\users\franc\documents\programacion iii\tareas\tarea3\nod.h
+

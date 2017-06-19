@@ -1,0 +1,8 @@
+﻿  MemoryDumper.cpp
+MemoryDumper.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  stdafx.cpp
+  Generating code
+  All 258 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MemoryDumper.vcxproj -> C:\Users\Dell\Desktop\MemoryDumper\Release\MemoryDumper.exe
+  MemoryDumper.vcxproj -> C:\Users\Dell\Desktop\MemoryDumper\Release\MemoryDumper.pdb (Full PDB)

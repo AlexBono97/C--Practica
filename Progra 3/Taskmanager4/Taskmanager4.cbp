@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Taskmanager4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Taskmanager4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Taskmanager4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AdvancedTaskManager.cpp" />
+		<Unit filename="AdvancedTaskManager.h" />
+		<Unit filename="AdvancedTaskManagerDlg.cpp" />
+		<Unit filename="AdvancedTaskManagerDlg.h" />
+		<Unit filename="ProcessEnumerator.cpp" />
+		<Unit filename="ProcessEnumerator.h" />
+		<Unit filename="ProcessViewer.cpp" />
+		<Unit filename="ProcessViewer.h" />
+		<Unit filename="StdAfx.cpp" />
+		<Unit filename="StdAfx.h" />
+		<Unit filename="Taskmanager4.cbp" />
+		<Unit filename="VersionViewer.cpp" />
+		<Unit filename="VersionViewer.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="psapi.h" />
+		<Unit filename="resource.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

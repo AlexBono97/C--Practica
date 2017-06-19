@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  MemoryDumper.cpp
+c:\users\dell\desktop\memorydumper\memorydumper.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MemoryDumper.vcxproj -> C:\Users\Dell\Desktop\MemoryDumper\Debug\MemoryDumper.exe
+  MemoryDumper.vcxproj -> C:\Users\Dell\Desktop\MemoryDumper\Debug\MemoryDumper.pdb (Full PDB)

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1486937134 source:c:\c++practica\herenciaclase1\main.cpp
+	<iostream>
+	"rastra.h"
+	"motocicleta.h"
+	"bicicleta.h"
+
+1486923288 source:c:\c++practica\herenciaclase1\vehiculorodante.cpp
+	"vehiculorodante.h"
+
+1486923473 c:\c++practica\herenciaclase1\vehiculorodante.h
+	<string>
+
+1486923421 source:c:\c++practica\herenciaclase1\rastra.cpp
+	"rastra.h"
+	"vehiculorodante.h"
+
+1486923421 c:\c++practica\herenciaclase1\rastra.h
+	"vehiculorodante.h"
+
+1486937026 source:c:\c++practica\herenciaclase1\bicicleta.cpp
+	"bicicleta.h"
+
+1486935864 c:\c++practica\herenciaclase1\bicicleta.h
+	"vehiculorodante.h"
+
+1486932759 source:c:\c++practica\herenciaclase1\motocicleta.cpp
+	"motocicleta.h"
+
+1486932884 c:\c++practica\herenciaclase1\motocicleta.h
+	"vehiculorodante.h"
+

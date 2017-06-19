@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1489533866 source:c:\c++practica\tareaabner\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1488679003 source:c:\c++practica\tareaabner\paquete.cpp
+	"paquete.h"
+
+1488678986 c:\c++practica\tareaabner\paquete.h
+	<string>
+
+1488686933 c:\c++practica\tareaabner\paquetedosdias.h
+	"paquete.h"
+	<string>
+
+1488687140 c:\c++practica\tareaabner\paquetenocturno.h
+	"paquete.h"
+	<string>
+
+1488687032 source:c:\c++practica\tareaabner\paquetedosdias.cpp
+	"paquetedosdias.h"
+	"paquete.h"
+
+1488687213 source:c:\c++practica\tareaabner\paquetenocturno.cpp
+	"paquetenocturno.h"
+	"paquete.h"
+	<string>
+

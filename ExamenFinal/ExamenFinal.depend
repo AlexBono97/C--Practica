@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1490298171 source:c:\c++practica\examenfinal\agenda.cpp
+	"agenda.h"
+	"ultimallamada.h"
+	<iostream>
+
+1490284477 c:\c++practica\examenfinal\agenda.h
+	<iostream>
+	<string>
+	"contacto.h"
+	"ultimallamada.h"
+
+1490218615 c:\c++practica\examenfinal\contacto.h
+	<string>
+
+1490285771 c:\c++practica\examenfinal\ultimallamada.h
+	"contacto.h"
+
+1490218695 source:c:\c++practica\examenfinal\contacto.cpp
+	"contacto.h"
+
+1490298160 source:c:\c++practica\examenfinal\main.cpp
+	<iostream>
+	"agenda.h"
+	"contacto.h"
+	"ultimallamada.h"
+
+1490288614 source:c:\c++practica\examenfinal\ultimallamada.cpp
+	"ultimallamada.h"
+	"contacto.h"
+	"agenda.h"
+

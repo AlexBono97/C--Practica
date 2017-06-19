@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488836240 source:c:\c++practica\pair\main.cpp
+	<utility>
+	"mipair.h"
+	<iostream>
+	<string>
+
+1488835566 c:\c++practica\pair\mipair.h
+	<string>
+
+1488835566 source:c:\c++practica\pair\mipair.cpp
+	"mipair.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488161366 source:c:\c++practica\memoryproceso\main.cpp
+	<windows.h>
+	<stdio.h>
+	<psapi.h>
+

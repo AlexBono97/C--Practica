@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1485311755 source:c:\c++practica\ejemplo1progra3\cliente.cpp
+	"cliente.h"
+	<string.h>
+
+1485302146 c:\c++practica\ejemplo1progra3\cliente.h
+	"infopersona.h"
+
+1485313276 source:c:\c++practica\ejemplo1progra3\main.cpp
+	<iostream>
+	"cliente.h"
+	"empleado.h"
+
+1485311778 source:c:\c++practica\ejemplo1progra3\empleado.cpp
+	"empleado.h"
+	<string.h>
+
+1485304223 c:\c++practica\ejemplo1progra3\empleado.h
+	"infopersona.h"
+
+1485311794 source:c:\c++practica\ejemplo1progra3\infopersona.cpp
+	"infopersona.h"
+	<string.h>
+
+1485302617 c:\c++practica\ejemplo1progra3\infopersona.h
+

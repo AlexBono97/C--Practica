@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1487198502 source:c:\c++practica\examenparcial1\arbol.cpp
+	"arbol.h"
+
+1487198494 c:\c++practica\examenparcial1\arbol.h
+	"pino.h"
+
+1487197471 c:\c++practica\examenparcial1\pino.h
+
+1446667744 source:c:\c++practica\examenparcial1\main.cpp
+	<iostream>
+
+1487197012 source:c:\c++practica\examenparcial1\pino.cpp
+	"pino.h"
+
+1487198502 source:c:\users\dell\desktop\examenparcial1\arbol.cpp
+	"arbol.h"
+
+1487198494 c:\users\dell\desktop\examenparcial1\arbol.h
+	"pino.h"
+
+1487197471 c:\users\dell\desktop\examenparcial1\pino.h
+
+1446667744 source:c:\users\dell\desktop\examenparcial1\main.cpp
+	<iostream>
+
+1487197012 source:c:\users\dell\desktop\examenparcial1\pino.cpp
+	"pino.h"
+

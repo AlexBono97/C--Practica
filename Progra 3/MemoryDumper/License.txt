@@ -1,0 +1,6 @@
+Except where otherwise noted all the code and documentation was written by the
+author (Maël Hörz) and is hereby released under Attribution 4.0 International (CC BY 4.0):
+http://creativecommons.org/licenses/by/4.0/
+
+For the portions noted as coming from MDSN their "Terms of use" apply:
+http://msdn.microsoft.com/en-US/windows/apps/cc300389

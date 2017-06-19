@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1487630280 source:c:\c++practica\examen1\aguacate.cpp
+	"aguacate.h"
+	"fruta.h"
+
+1487260475 c:\c++practica\examen1\aguacate.h
+	"arbol.h"
+
+1487600167 c:\c++practica\examen1\arbol.h
+
+1487618847 c:\c++practica\examen1\fruta.h
+	"aguacate.h"
+
+1487599839 source:c:\c++practica\examen1\arbol.cpp
+	"arbol.h"
+
+1487223768 source:c:\c++practica\examen1\cedro.cpp
+	"cedro.h"
+
+1487204640 c:\c++practica\examen1\cedro.h
+	"arbol.h"
+
+1487277018 source:c:\c++practica\examen1\fruta.cpp
+	"fruta.h"
+
+1487691815 source:c:\c++practica\examen1\main.cpp
+	<iostream>
+	"Arboleda.h"
+	"Arbol.h"
+	"Pino.h"
+	"Cedro.h"
+	"Aguacate.h"
+	"Fruta.h"
+
+1487690651 c:\c++practica\examen1\arboleda.h
+	"arbol.h"
+
+1487205693 c:\c++practica\examen1\pino.h
+	"arbol.h"
+
+1487605798 source:c:\c++practica\examen1\pino.cpp
+	"pino.h"
+
+1487715196 source:c:\c++practica\examen1\arboleda.cpp
+	"arboleda.h"
+	"iostream"
+

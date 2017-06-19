@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1488940265 source:c:\c++practica\stl\main.cpp
+	<iostream>
+	"myvector.h"
+	"mylist.h"
+
+1488930995 source:c:\c++practica\stl\myvector.cpp
+	"myvector.h"
+
+1488930632 c:\c++practica\stl\myvector.h
+
+1488936882 source:c:\c++practica\stl\mylist.cpp
+	"mylist.h"
+
+1488936882 c:\c++practica\stl\mylist.h
+

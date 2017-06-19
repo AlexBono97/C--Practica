@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1486418455 source:c:\c++practica\nodo\col.cpp
+	"col.h"
+
+1486066516 c:\c++practica\nodo\col.h
+	"nodo.h"
+
+1485898096 c:\c++practica\nodo\nodo.h
+
+1486418455 source:c:\c++practica\nodo\main.cpp
+	<iostream>
+	"nodo.h"
+	"col.h"
+
+1485898054 source:c:\c++practica\nodo\nodo.cpp
+	"nodo.h"
+

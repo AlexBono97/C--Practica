@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1487107191 source:c:\c++practica\examenduendes\congestion.cpp
+	"congestion.h"
+
+1487107191 c:\c++practica\examenduendes\congestion.h
+
+1487106997 source:c:\c++practica\examenduendes\duende.cpp
+	"duende.h"
+
+1487186411 c:\c++practica\examenduendes\duende.h
+	<string>
+
+1487107151 source:c:\c++practica\examenduendes\enfermedad.cpp
+	"enfermedad.h"
+
+1487186454 c:\c++practica\examenduendes\enfermedad.h
+	"duende.h"
+
+1487107201 source:c:\c++practica\examenduendes\insuficienciar.cpp
+	"insuficienciar.h"
+
+1487107201 c:\c++practica\examenduendes\insuficienciar.h
+
+1487107139 source:c:\c++practica\examenduendes\listaduende.cpp
+	"listaduende.h"
+
+1487186466 c:\c++practica\examenduendes\listaduende.h
+	"enfermedad.h"
+
+1446667744 source:c:\c++practica\examenduendes\main.cpp
+	<iostream>
+
+1487107183 source:c:\c++practica\examenduendes\tos.cpp
+	"tos.h"
+
+1487107183 c:\c++practica\examenduendes\tos.h
+

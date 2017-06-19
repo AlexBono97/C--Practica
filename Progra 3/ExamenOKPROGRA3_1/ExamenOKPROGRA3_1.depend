@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1487550037 source:c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\arbol.cpp
+	"Arbol.h"
+
+1487550037 c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\arbol.h
+
+1487549889 source:c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\arboleda.cpp
+	"Arboleda.h"
+
+1487549893 c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\arboleda.h
+	"Arbol.h"
+	"Fruta.h"
+	"iostream"
+
+1487551060 c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\fruta.h
+
+1487550754 source:c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\cedro.cpp
+	"Cedro.h"
+
+1487550635 c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\cedro.h
+	"Arbol.h"
+
+1487551083 source:c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\fruta.cpp
+	"Fruta.h"
+
+1487551396 source:c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\main.cpp
+	<iostream>
+	"Arboleda.h"
+	"Arbol.h"
+	"Pino.h"
+	"Cedro.h"
+	"Aguacate.h"
+	"Fruta.h"
+
+1487551414 c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\pino.h
+	"Arbol.h"
+
+1487548125 c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\aguacate.h
+	"Fruta.h"
+	"Arbol.h"
+
+1487551168 source:c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\pino.cpp
+	"Pino.h"
+
+1487548432 source:c:\users\miguel paz\desktop\universidad\progra 3\tareas codeblocks\examenokprogra3_1\aguacate.cpp
+	"Aguacate.h"
+
+1487548432 source:c:\users\dell\desktop\examenokprogra3_1\aguacate.cpp
+	"Aguacate.h"
+
+1487548125 c:\users\dell\desktop\examenokprogra3_1\aguacate.h
+	"Fruta.h"
+	"Arbol.h"
+
+1487551060 c:\users\dell\desktop\examenokprogra3_1\fruta.h
+
+1487550037 c:\users\dell\desktop\examenokprogra3_1\arbol.h
+
+1487550037 source:c:\users\dell\desktop\examenokprogra3_1\arbol.cpp
+	"Arbol.h"
+
+1487549889 source:c:\users\dell\desktop\examenokprogra3_1\arboleda.cpp
+	"Arboleda.h"
+
+1487549893 c:\users\dell\desktop\examenokprogra3_1\arboleda.h
+	"Arbol.h"
+	"Fruta.h"
+	"iostream"
+
+1487550754 source:c:\users\dell\desktop\examenokprogra3_1\cedro.cpp
+	"Cedro.h"
+
+1487550635 c:\users\dell\desktop\examenokprogra3_1\cedro.h
+	"Arbol.h"
+
+1487551083 source:c:\users\dell\desktop\examenokprogra3_1\fruta.cpp
+	"Fruta.h"
+
+1487650419 source:c:\users\dell\desktop\examenokprogra3_1\main.cpp
+	<iostream>
+	"Arboleda.h"
+	"Arbol.h"
+	"Pino.h"
+	"Cedro.h"
+	"Aguacate.h"
+	"Fruta.h"
+
+1487551414 c:\users\dell\desktop\examenokprogra3_1\pino.h
+	"Arbol.h"
+
+1487551168 source:c:\users\dell\desktop\examenokprogra3_1\pino.cpp
+	"Pino.h"
+

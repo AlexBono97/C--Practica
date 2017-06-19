@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488117334 source:c:\c++practica\memoryreadind\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	"winbase.h"
+	"psapi.h"
+
